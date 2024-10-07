@@ -1,0 +1,40 @@
+# Unity generated folders and files
+[Ll]ibrary/
+[Tt]emp/
+[Bb]uild/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+
+# Visual Studio files
+.vs/
+*.sln
+*.user
+*.userprefs
+*.suo
+*.csproj
+*.pidb
+*.booproj
+*.svd
+*.sln
+
+# Mac files
+.DS_Store
+
+# Windows files
+Thumbs.db
+ehthumbs.db
+
+# IDEs
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Asset packages
+*.unitypackage
+
+# Auto-generated files
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
